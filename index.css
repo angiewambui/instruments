@@ -1,0 +1,42 @@
+#git{
+    background-color: blue;
+}
+#music{
+    color: red;
+}
+#violin{
+    font-style: italic;
+
+}
+#instruments{
+    background-color: seagreen;
+    border: 5px rebeccapurple;
+    border-right: 4px red;
+    border-top: 6px royalblue;
+    border-bottom: 8px slateblue;
+}
+#content{
+    color: sienna;
+}
+img{
+    float: left;
+}
+.sidebar{
+    width: 30%;
+    float: right;
+    background-color: slateblue;
+}
+#school{
+    background-color: lime;
+    text-align: center;
+    border-top: 6px solid black;
+    padding-top: 20px;
+    }
+@media screen and(min-width: 480px);{
+body{
+ background-color: black;
+ color: white;
+   }
+}
+
+}
